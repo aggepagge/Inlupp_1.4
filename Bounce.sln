@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bounce", "Bounce\Bounce\Bounce.csproj", "{C7DD975B-AF22-47AD-92BD-9DE4143EE01C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BounceContent", "Bounce\BounceContent\BounceContent.contentproj", "{2E792EA5-D9CE-4296-96A8-6C770B0EFD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DD975B-AF22-47AD-92BD-9DE4143EE01C}.Debug|x86.ActiveCfg = Debug|x86
+		{C7DD975B-AF22-47AD-92BD-9DE4143EE01C}.Debug|x86.Build.0 = Debug|x86
+		{C7DD975B-AF22-47AD-92BD-9DE4143EE01C}.Release|x86.ActiveCfg = Release|x86
+		{C7DD975B-AF22-47AD-92BD-9DE4143EE01C}.Release|x86.Build.0 = Release|x86
+		{2E792EA5-D9CE-4296-96A8-6C770B0EFD51}.Debug|x86.ActiveCfg = Debug|x86
+		{2E792EA5-D9CE-4296-96A8-6C770B0EFD51}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
